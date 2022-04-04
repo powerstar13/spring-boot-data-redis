@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379 # Redis의 기본 연결 port는 6379이다.
+
